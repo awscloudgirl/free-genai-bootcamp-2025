@@ -1,1 +1,1 @@
-# free-genai-bootcamp-2025
+# Free Gen AI Bootcamp 2025
